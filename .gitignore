@@ -1,0 +1,9 @@
+# Google 인증 정보
+google_credentials.json
+
+# 로컬 설정 파일
+.streamlit/config.toml
+
+# 기타 (Python 캐시 등)
+__pycache__/
+*.pyc
